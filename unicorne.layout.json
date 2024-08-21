@@ -4,7 +4,7 @@
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
     [
-      "KC_TAB",
+      "KC_GRV",
       "KC_Q",
       "KC_W",
       "KC_E",
@@ -54,18 +54,18 @@
       "KC_SPC"
     ],
     [
-      "KC_GRV",
+      "KC_TAB",
       "S(KC_1)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
+      "S(KC_4)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
-      "KC_TRNS",
+      "S(KC_5)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
